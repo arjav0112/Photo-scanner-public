@@ -1,0 +1,45 @@
+# Photo Scanner — Public Teaser Repository
+# ==========================================
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Database files (generated at runtime)
+*.db
+faiss_index.bin
+faiss_id_map.npy
+
+# Model cache
+assets/local_clip_model/
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Embedding cache
+embedding_cache/
+
+# Poetry
+poetry.lock
+
+# Environment
+.env
