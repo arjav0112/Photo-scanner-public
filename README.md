@@ -1,7 +1,7 @@
 # <p align="center">📸 PHOTO SCANNER: THE AI-POWERED LOCAL PHOTO INTELLIGENCE ENGINE</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arjavjain5203/photo-scanner-public/main/docs/assets/banner.png" alt="Photo Scanner Banner" width="100%">
+  <img src="./images/bannr.png" alt="Photo Scanner Banner" width="100%">
 </p>
 
 <p align="center">
