@@ -307,8 +307,6 @@ To protect our competitive advantage and R&D investment, the following have been
 
 The code here serves as a **Functional Architecture Blueprint**. The public interfaces demonstrate the system's capabilities while the core logic remains protected.
 
-### 👉 [VIEW THE FULL PROJECT](https://github.com/arjavjain5203/photo-scanner-public)
-
 ---
 
 <p align="center">
