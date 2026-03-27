@@ -22,7 +22,7 @@ Since this is a teaser repo, you can explore the architecture but the engines op
 
 ```bash
 # Clone the repo
-git clone https://github.com/arjavjain5203/photo-scanner-public.git
+git clone https://github.com/arjav0112/photo-scanner-public.git
 cd photo-scanner-public
 
 # Install dependencies (Poetry)
@@ -33,9 +33,6 @@ poetry install
 python main.py scan ./your-photos
 python main.py search "sunset beach"
 ```
-
-## Security Reporting
-If you find a security vulnerability, please do NOT open a public issue. Refer to our [SECURITY.md](SECURITY.md) for private reporting instructions.
 
 ---
 *Happy scanning!*
