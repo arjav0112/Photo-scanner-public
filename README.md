@@ -29,7 +29,6 @@
 - [🛡️ Privacy & Local-First Architecture](#-privacy--local-first-architecture)
 - [📜 Detailed Changelog](#-detailed-changelog)
 - [📅 Roadmap 2026](#-roadmap-2026)
-- [⚖️ Licensing & Intellectual Property](#-licensing--intellectual-property)
 - [🛑 Public Teaser Restricted Access](#-public-teaser-restricted-access)
 
 ---
@@ -277,23 +276,6 @@ For a complete history of changes, see [CHANGELOG.md](CHANGELOG.md).
 
 ---
 
-## ⚖️ LICENSING & INTELLECTUAL PROPERTY
-
-**Photo Scanner Proprietary License v1.0**
-
-This repository is NOT open-source. It is a **Proprietary Community Teaser**.
-
-1. **Ownership**: The source code, algorithms, AI pipeline architecture, scoring mathematics, and adaptive learning engine are the exclusive property of Arjav Jain (Photo Scanner).
-2. **Restrictions**:
-   - You may NOT copy or redistribute this code.
-   - You may NOT reverse engineer the scoring algorithms or search fusion logic.
-   - You may NOT use these architectural patterns for competing products.
-3. **Permitted Use**: You are encouraged to review the public interfaces for educational purposes and open issues for feature requests.
-
-Full license text available in [LICENSE.PROPRIETARY](LICENSE.PROPRIETARY).
-
----
-
 ## 🛑 PUBLIC TEASER RESTRICTED ACCESS
 
 This repository contains the **Community Teaser** version of Photo Scanner.
@@ -314,7 +296,7 @@ The code here serves as a **Functional Architecture Blueprint**. The public inte
 </p>
 
 <p align="center">
-  <a href="https://github.com/arjavjain5203">Created by Arjav Jain</a>
+  <a href="https://github.com/arjav0112">Created by Arjav Jain</a>
 </p>
 
 <p align="center">
